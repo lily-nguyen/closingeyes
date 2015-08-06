@@ -2,9 +2,9 @@ REM update this file
 call G:
 call cd G:\Android\android-sdk\tools\
 
-call android create project --target 1 --name ClosingEyes --path G:\Android\workingspace\ClosingEyes --activity ClosingEyes --package com.jack.closingeyes
+call android create project --target 1 --name distanceimages --path G:\Android\workingspace\distanceimages --activity DistanceImage --package com.jack.distanceimages
 
-call xcopy G:\Android\workingspace\run.cmd G:\Android\workingspace\ClosingEyes\
+call xcopy G:\Android\workingspace\run.cmd G:\Android\workingspace\distanceimages\
 
 
 REM update existing project:
@@ -17,5 +17,3 @@ REM call android create lib-project --target 1 --name AndroidLib --path G:\Andro
 
 REM list targets:
 REM call android list targets
-
-call cd G:\Android\workingspace
