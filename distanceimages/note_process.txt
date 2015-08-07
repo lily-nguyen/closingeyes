@@ -3,11 +3,11 @@ http://photo.stackexchange.com/questions/12434/how-do-i-calculate-the-distance-o
 istance to object (mm) = focal length (mm) * real height of the object (mm) * image height (pixels)
                           ---------------------------------------------------------------------------
                           object height (pixels) * sensor height (mm)
-	* focal length: 
-	* real height
-	* image height
-	* object height
-	* sensor height
+	* focal length : 
+	* real height :
+	* image height :
+	* object height :
+	* sensor height : 
 						  
 						  
 1. button to take a picture
